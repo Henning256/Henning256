@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Henning256
-- 👀 I’m interested in many things
+- 👀 I’m interested in many things (Linux, Docker, PHP, Delphi/Pascal, Larvel, ...)
 - 🌱 I’m currently learning to survive life itself
 - 💞️ I’m looking to collaborate on open source PHP projects
 - 📫 How to reach me is quite obvious
